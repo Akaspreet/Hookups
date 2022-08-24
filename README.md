@@ -7,9 +7,13 @@ This is the system in which we search for a match for an image. We select a game
 ##  Library used
 
 **OS**: for using an operating system.
-**Sys**: for providing various functions of the system
+
+**Sys**: for providing various functions of the system.
+
 **Glob**: used to return all file paths that match a specific pattern.
+
 **Imagehash**: used to convert the Image into hash code.
+
 **PIL**: Python Imaging Library (expansion of PIL) is an image processing package. It incorporates lightweight image processing tools that aid in editing, creating, and saving images.
 
 ## Execution Steps:
